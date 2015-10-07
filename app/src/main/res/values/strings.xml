@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseDatos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="NewActivity">Este es el nuevo Activity</string>
+    <string name="btnNActivity">Abrir nuevo Activity</string>
+    <string name="EditeNombre">Nombre</string>
+    <string name="editeApellidos">Apellidos</string>
+    <string name="editeEdad">Edad</string>
+    <string name="btnInsertar">Insertar</string>
+    <string name="btnConsulta">Consultar Datos</string>
+</resources>
